@@ -1,0 +1,19 @@
+.header {
+  background-color: #fc2c03;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+
+.header > h1 {
+  font-size: 55px;
+}
+
+.country {
+  color: #fc2c03;
+}
+
+.active {
+  background-color: #fc2c03 !important;
+  border-color: #fc2c03 !important;
+}
